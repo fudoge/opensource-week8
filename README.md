@@ -1,8 +1,15 @@
 # 2025_opensource_week8
 
-### 환경
+## 환경
+- 세계 지진-쓰나미 위험 조사 데이터셋 [Kaggle - Global Earthquake-Tsunami Risk Assessment Dataset](https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset)
 
-- ### [공공기관 기상관측 데이터](https://www.bigdata-environment.kr/user/data_market/detail.do?id=4b57e8c0-86f4-11f0-9381-499068d28df5#!)
+| magnitude | cdi | mmi | sig | nst | gap | depth | latitude | longitude
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 7 | 8 | 7 | 768 | 117 | 0.509 | 17 | 14 | -9.7963 |159.596 |
+| 6.9 | 4 | 4 | 735 | 99 | 2.229 | 34 | 25 | -4.9559 | 100.738 |
+=======
+
+- [공공기관 기상관측 데이터](https://www.bigdata-environment.kr/user/data_market/detail.do?id=4b57e8c0-86f4-11f0-9381-499068d28df5#!)
 
 | spot_nm | date                | tp   | day_rain_0_1 | day_rain_0_5 | wd    | ws  | rh   | sp | slp | day_sr | day_hr |
 |----------|---------------------|------|---------------|---------------|-------|-----|------|----|-----|--------|--------|
